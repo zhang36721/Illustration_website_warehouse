@@ -37,7 +37,7 @@ const ToLogin = ()=>{
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 13rem;
+  width: 100%;
   overflow: hidden;
   height: 3rem;
   background-size: 300% 300%;
